@@ -7,7 +7,7 @@ By simply selecting the type of document they want to build and adding the job d
 This repo summarizes our initial data cleaning and exploratory data analysis on the containing nested JSON objects, with the aim of preparing the data for customer profile analysis. 
 Our efforts resulted in a readable and analyzable datasets, and we obtained preliminary findings that lay a solid foundation for future analysis.
 
-- Due to data confidentiality concerns and the main focus of this project being on the exploration of JSON file flattening, data preprocessing and cleaning, only a portion of the code and results from Exploratory Data Analysis (EDA) and data mining are presented.
+- Due to data confidentiality concerns and the main focus of this repo being on the exploration of JSON file flattening, data preprocessing and cleaning, only a portion of the code and results from Exploratory Data Analysis (EDA) and data mining are presented.
 - The EDA section includes the distribution of user age, top 10 target industries, top 10 user skills and so on.
 - The data mining section includes topic modeling with LDA, industry Classification using a Rule-based Approach, and resume quality assessment using NLP.
 - Just list a few of the EDA and data mining sections in this repo for reference.
