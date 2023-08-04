@@ -1,5 +1,5 @@
 # Data-preprocessing-and-cleaning
-## This repo derives from a team project together with [Shurui Jiang](https://github.com/DaleJ6), [Xuehao Zhang](https://www.linkedin.com/in/xuehao-zhang-0ab0b5254/) and Yi('Suzy') Xu,
+## This repo derives from a team project together with [Shurui Jiang](https://github.com/DaleJ6), [Xuehao Zhang](https://www.linkedin.com/in/xuehao-zhang-0ab0b5254/) and Yi('Suzy') Xu
 
 The projetc is sponsored by [CoverQuick](https://www.coverquick.co/), a company offers a service that utilizes AI technology to help job seekers create personalized and professional resumes and cover letters. 
 By simply selecting the type of document they want to build and adding the job description, users can generate unique cover letters tailored to specific job applications.
